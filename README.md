@@ -1,6 +1,6 @@
 ## DOWON-SEO
 
-**Evolve Everyday.**
+**Evolve Everyday**
 
 <br/>
 
