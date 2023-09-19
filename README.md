@@ -15,12 +15,12 @@
     <!-- <a href="https://nestjs.com/ko"><img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white"/></a> -->
     <a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/></a>
     <a href="https://www.mongodb.com/ko-kr"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
-    <!-- <a href="https://www.pytorch.org"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=docker&logoColor=white"/></a> -->
     <a href="https://aws.amazon.com/ko/"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/></a>
     <a href="https://www.nginx.com"><img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white"/></a>
-    <a href="https://rockylinux.org"><img src="https://img.shields.io/badge/Rocky Linux-10B981?style=flat-square&logo=rockylinux&logoColor=white"/></a>
+    <!-- <a href="https://www.pytorch.org"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=docker&logoColor=white"/></a> -->
+    <a href="https://www.gitea.com"><img src="https://img.shields.io/badge/Gitea-609926?style=flat-square&logo=gitea&logoColor=white"/></a>
     <a href="https://www.docker.com"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
-    <!-- <a href="https://www.gitea.com"><img src="https://img.shields.io/badge/Gitea-609926?style=flat-square&logo=gitea&logoColor=white"/></a> -->
+    <a href="https://rockylinux.org"><img src="https://img.shields.io/badge/Rocky Linux-10B981?style=flat-square&logo=rockylinux&logoColor=white"/></a>
     <a href="https://www.jenkins.io"><img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/></a>
 </div>
 
